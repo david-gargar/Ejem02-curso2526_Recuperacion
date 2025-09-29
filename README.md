@@ -1,1 +1,1 @@
-# Ejem02-curso2526_Recuperaci-nrestauracion
+# Ejem02-curso2526_Recuperacion-restauracion
