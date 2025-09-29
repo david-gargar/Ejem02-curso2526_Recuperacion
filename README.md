@@ -1,77 +1,70 @@
-# Ejem02-curso2526_Recuperacion
+# Ejem02_2526_Restauracion
 
-Nombre del propietario del proyecto: Daid García
-
-Pie de página [^1]
-
-## H1 (sería el título principal)
-
+# H1
 ## H2
-
 ### H3
+**Este proyecto es simplemente para explicar markdown y ver la evolución de los proyectos.** Esto no está en negrita
+*Este texto estará en cursiva* 
+> Lo interesante de markdown es lo poco que tenemos que memorizar de palabras reservadas y sin embargo es prácticamente igual que HTML
 
-**Este proyecto es simplemente para explicar Markdown y ver la evolución de los proyectos.** Y esto essin negrita
 
-Esto es un *texto en cursiva*
+Lista de pasos a seguir en un proyecto [^1]
+1. Crearlo
+2. Desarrollarlo
+3. Comentarlo
 
-1. Markdown 1
-2. Markdown 2
-3. Markdown 3
+Puntos que no deben olvidarse.
+- Desarrollar código conjunto
+- Reuniones diarias
 
-- parte 1
-- parte 2
-- parte 3
-
-`<html><p>texto</p></html>`
-
+`String variable="Esto es una cadena de texto"`
 ---
+Enlace a web del centro desarrolador:  	[GF](https://www.gregoriofer.com)
+Imagen corporativa 	![LogoGF](https://gregoriofer.com/logo.jpg)
 
-Más información [aquí del Gregorio Fernandez](https://gregorifer.com)
-
-![prueba de imagen del gregoriofer.com](https://gregoriofer.com/logo.jpg)
-
-|número | nombres |
-| - | ------ |
+Trabajadores del proyecto:
+| Identificador | Nombre alumno |
+| ----------- | ----------- |
 | 1 | Victor |
-| 2 |  Jorje |
-| 3 |  Laura |
+| 2 | Jorge | 
+| 3 | Laura | 
 
-```python
-print("Jhon doe")
+```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
 ```
 
-### Mi Maravillosa cabecera {#id-custom}
 
 Git
-: Control de versión utilizado
+: Control de versiones utilizado
+: Control de versiones utilizado2
+: Control de versiones utilizado3
 
 IDE
-:Eclipse para desarroyar proyectos
+: Eclipse para desarrollar proyectos
 
-~~esto ya está hecho~~
+Tareas a realizar
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
 
-tareas a realizar
 
-- [x] Aprender sobre VS Code
-- [ ] Hacer la presentación
-- [ ] Aprender **Markdown**
 
-eso fue divertdo! :joy:
+I need to highlight these <mark>very important words</mark>
 
-Esto es ==IMPORTANTE\!\!\!==
+<dl>
+  <dt><mark>Término 1</mark></dt>
+  <dd>Definición del término 1.</dd>
+  
+  <dt><mark>Término 2</mark></dt>
+  <dd>Definición del término 2.</dd>
+</dl>
 
-1001~2~
+Modificación realizada en local.
 
-H~2~O
 
- 2^3^
-
-Por ejemplo, Markdown sirve para hacer páginas WEB, como en este ejemplo:
-
-![Ejemplo de Markdown](https://mdg.imgix.net/assets/images/markdown-flowchart.png)
-
-Modificación realizada en local
-
-[^1]:Este es el pie de página
-
-nose.
+[^1]: este es el pie de página. 
+  
